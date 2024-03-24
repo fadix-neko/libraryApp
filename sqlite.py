@@ -1,6 +1,7 @@
 import json
 import sqlite3 as sql
 
+
 class SQLite:
     """Класс, позволяющий проще взоимодействовать с бд"""
 
