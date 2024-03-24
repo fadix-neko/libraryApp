@@ -3,6 +3,7 @@ import dearpygui.dearpygui as dpg
 
 from sqlite import SQLite
 
+
 class LibraryApp:
     """Класс для созданного приложения, содержащий в себе функции для рендера
      и взаимодействия с кнопками"""
